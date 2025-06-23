@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cm96qjs2s-python-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/cm96qjs2s-python-gitops
